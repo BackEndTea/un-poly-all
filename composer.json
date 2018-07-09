@@ -1,0 +1,37 @@
+{
+  "name": "backendtea/un-poly-all",
+  "description": "Removes all polyfills from your project, where possible",
+  "keywords": [
+    "polyfill",
+    "removal"
+  ],
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gert de Pagter",
+      "email": "BackEndTea@gmail.com"
+    }
+  ],
+  "require": {
+    "backendtea/un-poly-apcu": "^1.0",
+    "backendtea/un-poly-ctype": "^1.0",
+    "backendtea/un-poly-iconv": "^1.0",
+    "backendtea/un-poly-intl-grapheme": "^1.0",
+    "backendtea/un-poly-intl-icu": "^1.0",
+    "backendtea/un-poly-intl-normalizer": "^1.0",
+    "backendtea/un-poly-mbstring": "^1.0",
+    "backendtea/un-poly-password": "^1.0",
+    "backendtea/un-poly-php54": "^1.0",
+    "backendtea/un-poly-php55": "^1.0",
+    "backendtea/un-poly-php56": "^1.0",
+    "backendtea/un-poly-php70": "^1.0",
+    "backendtea/un-poly-php71": "^1.0",
+    "backendtea/un-poly-php72": "^1.0",
+    "backendtea/un-poly-php73": "^1.0",
+    "backendtea/un-poly-random": "^1.0",
+    "backendtea/un-poly-util": "^1.0",
+    "backendtea/un-poly-xml": "^1.0"
+
+  }
+}
